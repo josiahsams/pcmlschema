@@ -1,5 +1,5 @@
 
-### h3 Sample PCML Schema Definition file
+### Sample PCML Schema Definition file
 
 ```json 
 {
